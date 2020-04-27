@@ -5,11 +5,18 @@ Dockerfile to build a [Redmine](http://www.redmine.org/) container image.
 Based on Current Version: **sameersbn/redmine:4.1.1-2**
 
 Used plugins:
--[Additionals](git://github.com/alphanodes/additionals.git)
--[Redmine_bootstrap_kit](https://github.com/jbox-web/redmine_bootstrap_kit.git)
--[Redmine_git_hosting](https://github.com/jbox-web/redmine_git_hosting.git)
+*[Additionals](https://github.com/alphanodes/additionals.git)
+
+
+*[Redmine_bootstrap_kit](https://github.com/jbox-web/redmine_bootstrap_kit.git)
+
+
+*[Redmine_git_hosting](https://github.com/jbox-web/redmine_git_hosting.git)
+
+
 
 Gitolite:
+
 -[Gitolite](github.com/sitaramc/gitolite) version 3.6.11
 
 Prerequisite:
