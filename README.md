@@ -4,13 +4,10 @@
 Dockerfile to build a [Redmine](http://www.redmine.org/) container image.
 Based on Current Version: **sameersbn/redmine:4.1.1-2**
 
-Used plugins:
-*[Additionals](https://github.com/alphanodes/additionals.git)
-
-
-*[Redmine_bootstrap_kit](https://github.com/jbox-web/redmine_bootstrap_kit.git)
-
-
+Used plugins:  
+  
+  *[Additionals](https://github.com/alphanodes/additionals.git)  
+*[Redmine_bootstrap_kit](https://github.com/jbox-web/redmine_bootstrap_kit.git)  
 *[Redmine_git_hosting](https://github.com/jbox-web/redmine_git_hosting.git)
 
 
