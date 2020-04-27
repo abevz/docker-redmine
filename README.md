@@ -51,7 +51,7 @@ Post install:
 
 1. Enable Xitolite repositories in Administration -> Settings -> Repositories
 
-2. Configure plugin settings in Administration -> Redmine Git Hosting (don't forget click on "Instal hooks!" on "Hooks")
+2. Configure plugin settings in Administration -> Redmine Git Hosting (don't forget to click on "Instal hooks!" on "Hooks" tab)
 
 3. Check your installation in Administration -> Redmine Git Hosting Config Checks tab.
 
