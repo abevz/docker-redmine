@@ -58,4 +58,5 @@ Post install:
 # References
     * http://www.redmine.org/
     * http://www.redmine.org/projects/redmine/wiki/Guide
-    * http://www.redmine.org/projects/redmine/wiki/RedmineInstall
+    * http://www.redmine.org/projects/redmine/wiki/RedmineInstall  
+    * http://redmine-git-hosting.io/get_started/
