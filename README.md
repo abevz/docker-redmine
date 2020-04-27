@@ -12,9 +12,8 @@ Used plugins:
 
 
 
-Gitolite:
-
--[Gitolite](github.com/sitaramc/gitolite) version 3.6.11
+Gitolite:  
+*[Gitolite](http://github.com/sitaramc/gitolite) version 3.6.11
 
 Prerequisite:
 ```bash
